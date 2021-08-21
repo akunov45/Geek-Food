@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Geek-Food/static/css/main.12bf6414.chunk.css",
+    "main.js": "/Geek-Food/static/js/main.904381ed.chunk.js",
+    "main.js.map": "/Geek-Food/static/js/main.904381ed.chunk.js.map",
+    "runtime-main.js": "/Geek-Food/static/js/runtime-main.e17545a4.js",
+    "runtime-main.js.map": "/Geek-Food/static/js/runtime-main.e17545a4.js.map",
+    "static/js/2.8b933aca.chunk.js": "/Geek-Food/static/js/2.8b933aca.chunk.js",
+    "static/js/2.8b933aca.chunk.js.map": "/Geek-Food/static/js/2.8b933aca.chunk.js.map",
+    "index.html": "/Geek-Food/index.html",
+    "static/css/main.12bf6414.chunk.css.map": "/Geek-Food/static/css/main.12bf6414.chunk.css.map",
+    "static/js/2.8b933aca.chunk.js.LICENSE.txt": "/Geek-Food/static/js/2.8b933aca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e17545a4.js",
+    "static/js/2.8b933aca.chunk.js",
+    "static/css/main.12bf6414.chunk.css",
+    "static/js/main.904381ed.chunk.js"
+  ]
+}
